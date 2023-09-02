@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">USTHWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Cloudy">Cloudy \n17C - 20C</string>
+    <string name="Partly_Cloudy">Partly Cloudy\n20C - 25C</string>
+    <string name="Rainy">Rainy \n12C - 15C</string>
+    <string name="Thunderstorm">Thunderstorm\n10C - 14C</string>
+    <string name="Sunny">Sunny\n 30C - 25C</string>
+    <string name="Windy_Cloudy">Windy Cloudy\n7C-12C</string>
+    <string name="Snowy">Snowy\n-9C - 0C</string>
+    <string name="city_paris">Paris</string>
+</resources>
